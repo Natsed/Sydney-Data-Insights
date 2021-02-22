@@ -1,5 +1,5 @@
 # Sydney-Data-Insights
-A group project done during the summer analysing Sydney opal card and population dynamics data.
+A group project done during the summer analysing Sydney opal card and population dynamics data. Members include Siddharth Moharir, Jerome Uriah Ng, Thành Trung and Destan Ozkan. All work was distributed equally, giving everyone the opportunitiy to learn different skills as the project progressed.
 
 # group-project-group-61
 
